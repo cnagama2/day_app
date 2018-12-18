@@ -1,0 +1,15 @@
+current directory: /Users/chikako1/プログラミング書籍と学習/一日でできる/day_app/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/chikako1/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20181219-34534-1ol6qk6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/chikako1/プログラミング書籍と学習/一日でできる/day_app/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/chikako1/プログラミング書籍と学習/一日でできる/day_app/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/chikako1/プログラミング書籍と学習/一日でできる/day_app/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181219-34534-xajp4t/bootsnap

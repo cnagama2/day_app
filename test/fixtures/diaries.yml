@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  title: 初めての日記アプリ制作！
+  body: 今日は曇り。絶好のプログラミング日和か？（笑）
+
+two:
+  id: 2
+  title: コンテンツ入力
+  body: 本に従ってエントリーを入力していく。
